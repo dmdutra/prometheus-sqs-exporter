@@ -5,7 +5,7 @@
     <a href="https://twitter.com/0xdtr">
       <img src="https://img.shields.io/badge/twitter-@0xdtr-blue.svg">
     </a>
-    <a href="https://0xdtr/prometheus-sqs-exporter/actions">
+    <a href="https://github.com/0xdtr/prometheus-sqs-exporter/actions/workflows/lint.yml">
       <img src="https://github.com/0xdtr/prometheus-sqs-exporter/actions/workflows/lint.yml/badge.svg">
     </a>
   </p>
