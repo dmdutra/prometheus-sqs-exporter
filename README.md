@@ -2,11 +2,11 @@
   <h3 align="center">Prometheus SQS Exporter</h3>
   <p align="center">Prometheus exporter for AWS Simple Queue Service (SQS)</p>
   <p align="center">
-    <a href="https://twitter.com/0xdtr">
-      <img src="https://img.shields.io/badge/twitter-@0xdtr-blue.svg">
+    <a href="https://twitter.com/dmdutra_">
+      <img src="https://img.shields.io/badge/twitter-@dmdutra-blue.svg">
     </a>
-    <a href="https://github.com/0xdtr/prometheus-sqs-exporter/actions/workflows/lint.yml">
-      <img src="https://github.com/0xdtr/prometheus-sqs-exporter/actions/workflows/lint.yml/badge.svg">
+    <a href="https://github.com/dmdutra/prometheus-sqs-exporter/actions/workflows/lint.yml">
+      <img src="https://github.com/dmdutra/prometheus-sqs-exporter/actions/workflows/lint.yml/badge.svg">
     </a>
   </p>
 </p>
@@ -63,7 +63,7 @@ http://localhost:8420/metrics
 ## Grafana dashboard
 
 Import grafana dashboard from:
-https://github.com/0xdtr/prometheus-sqs-exporter/blob/main/grafana/dashboard.json
+https://github.com/dmdutra/prometheus-sqs-exporter/blob/main/grafana/dashboard.json
 
 ![](./grafana/screenshot.png)
 
